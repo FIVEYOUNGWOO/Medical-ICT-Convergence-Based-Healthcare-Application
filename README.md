@@ -1,4 +1,4 @@
-## Medical-ICT Convergence Healthcare-Based Application.
+## Medical-ICT-Convergence-Based-Healthcare-Application
 
 The application includes background connection nfc, plotting real-time sensor values, and recording sensor values by SQLite.
 
